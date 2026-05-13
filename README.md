@@ -1,1 +1,3 @@
-cyber-dev-skill:控制论驱动的工程闭环开发系统。将软件开发建模为设定目标→实现→测量偏差→负反馈调节的控制回路。四角色分离（Architect/Builder/Verifier/Regulator），铁三角锁定（目标+契约+偏差量），偏差四分类处理。Invoke when user starts a new project, needs structured engineering workflow, or wants闭环管理软件开发过程。
+# 分享个人agent skill
+## cyber-dev-skill
+- 控制论驱动的工程闭环开发系统。将软件开发建模为设定目标→实现→测量偏差→负反馈调节的控制回路。四角色分离（Architect/Builder/Verifier/Regulator），铁三角锁定（目标+契约+偏差量），偏差四分类处理。Invoke when user starts a new project, needs structured engineering workflow, or wants闭环管理软件开发过程。
